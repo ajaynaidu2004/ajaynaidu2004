@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ajay Naidu Redrothu
 
 <!--
 **ajaynaidu2004/ajaynaidu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
